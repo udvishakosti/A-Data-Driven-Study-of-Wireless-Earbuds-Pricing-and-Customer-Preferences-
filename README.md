@@ -1,2 +1,3 @@
-# A-Data-Driven-Study-of-Wireless-Earbuds-Pricing-and-Customer-Preferences-
-An Exploratory Data Analysis project using web-scraped e-commerce data to identify key factors influencing value for money and customer satisfaction in the wireless earbuds market.
+This project performs an Exploratory Data Analysis (EDA) on the wireless earbuds market using real-world data collected through web scraping. Product information such as pricing, discounts, technical features, and customer ratings was extracted from an e-commerce platform and analyzed to understand what truly drives customer value and purchasing decisions.
+
+The goal of this project is to move beyond marketing-driven pricing and identify earbuds that offer genuine value for money. The insights from this analysis can help customers make informed buying decisions and assist businesses in optimizing pricing strategies and product positioning using data-driven evidence.
